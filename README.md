@@ -43,7 +43,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 1
-commit 60d90bd610fed16f34d7bcd5a599acd47f6c9d78
+[commit 60d90bd610fed16f34d7bcd5a599acd47f6c9d78](https://github.com/AlexFom87/8-01-hw/commit/60d90bd610fed16f34d7bcd5a599acd47f6c9d78)
 
 
 ### Задание 2
