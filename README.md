@@ -58,7 +58,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ### Решение 2
-commit e6ffd841458739cefeabe5165fc0dcca868af6d9
+[commit e6ffd841458739cefeabe5165fc0dcca868af6d9](https://github.com/AlexFom87/8-01-hw/commit/e6ffd841458739cefeabe5165fc0dcca868af6d9)
 
 
 ### Задание 3
